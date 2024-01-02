@@ -1,3 +1,4 @@
-dealing with python to its fullest
-##0x00-python-hello_world##
-*My first python project
+0-run -- Run Python file
+1-run_inline -- Run inline
+2-print.py -- Hello, print
+
